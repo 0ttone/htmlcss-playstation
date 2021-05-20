@@ -1,9 +1,9 @@
 .jumbo{
     background-image: url(../img/jumbo-bg.png);
-    height: 600px;
     background-size: cover;
     background-position: center;
     color: white;
+    
 }
 
 .topfix{
@@ -13,15 +13,20 @@
 }
 
 .jumbo-row{
-    padding-top:200px;
+    padding-top:120px;
+    padding-bottom:50px
 }
 
 
 .banner-returnal{
-    
     padding-bottom:24px;
     
 }
+
+.color-b{
+    color:#0072ce
+}
+    
 
 .banner-returnal img{
     width: 100%;
@@ -32,12 +37,36 @@
     padding-bottom: 24px;
 } */
 
-.btn{
+.btn-jumbo{
     color: white;
     background-color: #cd3d0f;
     border-radius: 15px;
 }
+.btn-con-ps5{
+    color: white;
+    background-color: #2d64e6;
+    border-radius: 15px;
 
+}
+
+.ps5-img img{
+    width: 100%;
+}
+.hw-img img{
+    width: 100%;
+}
+
+.hw-name{
+    text-align: center;
+    font-size: 14px;
+    color: #888888;
+}
+
+
+
+.gal-ps5{
+    margin-top: 24px;
+}
 
 .box-mini-games img{
     width: 100%;
@@ -69,3 +98,29 @@
     overflow: hidden;
 
 }
+
+/* classi da NUOVE USCITE - da confrontare  */
+
+.takes{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    
+
+}
+
+.takes-row{
+    padding-top:120px;
+    padding-bottom:50px
+
+}
+
+.banner-takes img{
+    width:100%;
+}
+
+.banner-takes{
+    padding-bottom: 24px;
+}
+
