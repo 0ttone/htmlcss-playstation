@@ -18,13 +18,19 @@
 
 
 .banner-returnal{
-    width: 200px;
+    
+    padding-bottom:24px;
+    
 }
 
 .banner-returnal img{
     width: 100%;
     
 }
+
+/* .banner-returnal h4{
+    padding-bottom: 24px;
+} */
 
 .btn{
     color: white;
@@ -39,7 +45,7 @@
 
 .mini-games-row{
     margin-top:24px;
-    margin-bottom: 24px;
+    margin-bottom: 48px;
 
 }
 
