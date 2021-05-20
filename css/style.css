@@ -31,3 +31,35 @@
     background-color: #cd3d0f;
     border-radius: 15px;
 }
+
+
+.box-mini-games img{
+    width: 100%;
+}
+
+.mini-games-row{
+    margin-top:24px;
+    margin-bottom: 24px;
+
+}
+
+.box-mini-games{
+    border-radius: 20px;
+    border:2px solid #fff;
+    overflow: hidden;
+
+}
+
+.box-mini-games:hover{
+    border:2px solid blue;
+
+}
+
+
+
+.box-mini-games-inner{
+    border-radius: 20px;
+    border:2px solid #fff;
+    overflow: hidden;
+
+}
