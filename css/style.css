@@ -49,6 +49,17 @@
 
 }
 
+.btn-con-plus{
+    color: #2d64e6;
+    background-color: #d9dbdd;
+    border-radius: 15px;
+
+
+}
+
+
+
+
 .ps5-img img{
     width: 100%;
 }
@@ -151,5 +162,20 @@ APPLICATO AL P O A TUTTO IL DIV */
 /* PS4 */
 
 .ps4-img img{
+    width: 100%;
+}
+
+
+/* plus */
+.plus{
+    background-color: #bebcbb;
+    margin-top: 48px;
+}
+
+.ps-plus-img img{
+    width: 80%;
+}
+
+.ps-april-img img{
     width: 100%;
 }
