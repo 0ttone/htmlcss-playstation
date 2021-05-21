@@ -13,8 +13,8 @@
 }
 
 .jumbo-row{
-    padding-top:120px;
-    padding-bottom:50px
+    padding-top:200px;
+    padding-bottom:70px
 }
 
 
@@ -53,7 +53,7 @@
     width: 100%;
 }
 .hw-img img{
-    width: 100%;
+    width: 90%;
 }
 
 .hw-name{
@@ -124,3 +124,13 @@
     padding-bottom: 24px;
 }
 
+.new-rel{
+    background-color: #1f1f1f;
+    color:white;
+    padding-bottom:48px;
+}
+
+.new-rel img{
+    width: 100%;
+    border-radius: 12px;
+}
