@@ -62,6 +62,18 @@
     color: #888888;
 }
 
+/* TEST QUI HOVER SOTTO TESTO
+APPLICATO AL P O A TUTTO IL DIV */
+
+.hw-name{
+    border-bottom:1px solid white;
+}
+
+.hw-name:hover{
+    border-bottom:1px solid #0072ce;
+}
+
+/* END - */
 
 
 .gal-ps5{
@@ -127,10 +139,17 @@
 .new-rel{
     background-color: #1f1f1f;
     color:white;
-    padding-bottom:48px;
+    padding-top:48px;
+    margin-bottom: 50px;
 }
 
 .new-rel img{
     width: 100%;
     border-radius: 12px;
+}
+
+/* PS4 */
+
+.ps4-img img{
+    width: 100%;
 }
