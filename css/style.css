@@ -52,6 +52,9 @@ body{
     padding-bottom: 24px;
 } */
 
+
+/* button */
+
 .btn-jumbo{
     color: white;
     background-color: #cd3d0f;
@@ -70,6 +73,12 @@ body{
     border-radius: 15px;
 
 
+}
+
+.btn-con-now{
+    color: black;
+    background-color: #f5f5f5;
+    border-radius: 15px;
 }
 
 
@@ -211,5 +220,42 @@ APPLICATO  TUTTO IL DIV */
 /* discount */
 
 .discount img{
+    width: 100%;
+}
+
+
+/* hero */
+
+.hero{
+    background-color: #161c3b;
+    margin-top: 48px;
+    margin-bottom: 48px;
+}
+
+
+.ps-now-img img{
+    width: 72%;
+}
+
+
+.ps-hero-img img{
+    width: 90%;
+}
+
+
+/* social */
+
+.social-img img{
+    width: 100%;
+}
+
+/* footer */
+
+.blu-footer{
+    background-color: #00439c;
+    color: white;
+}
+
+.logo-ps{
     width: 100%;
 }
