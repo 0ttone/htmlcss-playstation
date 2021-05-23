@@ -251,11 +251,19 @@ APPLICATO  TUTTO IL DIV */
 
 /* footer */
 
+ul{
+    list-style: none;
+}
+
 .blu-footer{
     background-color: #00439c;
     color: white;
 }
 
-.logo-ps{
+.logo-ps img{
+    width: 100%;
+}
+
+.logo-sie img{
     width: 100%;
 }
