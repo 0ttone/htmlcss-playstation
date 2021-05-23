@@ -223,6 +223,10 @@ APPLICATO  TUTTO IL DIV */
     width: 100%;
 }
 
+.discount{
+    padding-top:24px;
+}
+
 
 /* hero */
 
@@ -260,10 +264,26 @@ ul{
     color: white;
 }
 
+
+.logo-ps{
+    width:100px;
+}
 .logo-ps img{
     width: 100%;
+    
+}
+
+.logo-sie{
+    width: 150px;
 }
 
 .logo-sie img{
     width: 100%;
 }
+
+.txt-footer{
+    font-size: 15px;
+}
+
+.text-logo-sie span{
+    text-decoration: underline;
