@@ -23,9 +23,24 @@
     
 }
 
+/* utility class */
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .color-b{
     color:#0072ce
 }
+
+.mrg-bot{
+    margin-bottom: 48px;
+}
+
+
+
+
+/* end utility class */
     
 
 .banner-returnal img{
@@ -67,6 +82,13 @@
     width: 90%;
 }
 
+.hw-img{
+    opacity: 0.7;
+}
+.hw-img:hover{
+    opacity: 1;
+}
+
 .hw-name{
     text-align: center;
     font-size: 14px;
@@ -74,21 +96,20 @@
 }
 
 /* TEST QUI HOVER SOTTO TESTO
-APPLICATO AL P O A TUTTO IL DIV */
+APPLICATO  TUTTO IL DIV */
 
-.hw-name{
+.item-ps5{
     border-bottom:1px solid white;
 }
 
-.hw-name:hover{
+.item-ps5:hover{
     border-bottom:1px solid #0072ce;
 }
-
-/* END - */
 
 
 .gal-ps5{
     margin-top: 24px;
+    margin-bottom: 48px;
 }
 
 .box-mini-games img{
@@ -147,17 +168,22 @@ APPLICATO AL P O A TUTTO IL DIV */
     padding-bottom: 24px;
 }
 
+
+/* new-rel  CHECK VERIFICA FARE RADIUS IL DIV NO A IMG*/
+
 .new-rel{
     background-color: #1f1f1f;
     color:white;
     padding-top:48px;
-    margin-bottom: 50px;
+    margin-bottom: 48px;
 }
 
 .new-rel img{
     width: 100%;
     border-radius: 12px;
 }
+
+
 
 /* PS4 */
 
@@ -171,12 +197,19 @@ APPLICATO AL P O A TUTTO IL DIV */
 .plus{
     background-color: #bebcbb;
     margin-top: 48px;
+    margin-bottom: 48px;
 }
 
 .ps-plus-img img{
-    width: 80%;
+    width: 72%;
 }
 
 .ps-april-img img{
+    width: 100%;
+}
+
+/* discount */
+
+.discount img{
     width: 100%;
 }
