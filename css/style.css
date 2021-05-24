@@ -1,3 +1,35 @@
+
+/* nav bar e topfix  */
+.topfix{
+      background-color: black;
+      height: 50px;
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      
+  }
+
+
+  
+.navbar-brand img{
+      width: 100%;
+}
+
+.sony-logo-img img{
+      width: 100%;
+}
+
+.sony-logo-img{
+      width: 96px;
+      
+
+}
+
+/* end nav bar e topfix  */
+
+
+
+
 .jumbo{
     background-image: url(../img/jumbo-bg.png);
     background-size: cover;
@@ -6,11 +38,7 @@
     
 }
 
-.topfix{
-    background-color: antiquewhite;
-    height: 80px;
-    border: 1px solid gray;
-}
+
 
 .jumbo-row{
     padding-top:200px;
