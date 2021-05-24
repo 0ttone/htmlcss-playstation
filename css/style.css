@@ -110,12 +110,20 @@ body{
     border-radius: 15px;
 }
 
+/* button navbar */
+
 .btn-con-nav{
       color: white;
       background-color: #363636;
       border-radius: 15px;
+      border: 2px solid white;
       
   }
+
+.btn-con-nav:hover{
+      color: white;
+      
+}
 
 
 
@@ -270,11 +278,13 @@ APPLICATO  TUTTO IL DIV */
     background-color: #161c3b;
     margin-top: 48px;
     margin-bottom: 48px;
+    color: white;
 }
 
 
 .ps-now-img img{
     width: 72%;
+
 }
 
 
@@ -323,3 +333,53 @@ ul{
 
 .text-logo-sie span{
     text-decoration: underline;
+}
+
+    /* BREAKPOINTS 
+X-Small 	None 	<576px
+Small 	sm 	≥576px
+Medium 	md 	≥768px
+Large 	lg 	≥992pX
+       */
+
+       /* MEDIAQUERTY */
+
+
+
+@media all and (max-width:768px) {
+      
+      .banner-takes{
+            padding-bottom:72px ;
+      }
+      
+}
+
+
+@media all and (max-width:577px){
+
+      .ps-april-img {
+            display: none;
+      }
+
+      .plus{
+            padding-top:24px;
+            padding-bottom: 24px;
+      }
+
+      .ps-hero-img img{
+            display: none;
+      }
+
+      .hero{
+            padding-top: 24px;
+            padding-bottom:24px;
+      }
+
+
+
+      
+
+}
+      
+
+      
