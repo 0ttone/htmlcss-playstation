@@ -66,6 +66,14 @@ body{
     margin-bottom: 48px;
 }
 
+.standard{
+      color: #727272;
+}
+
+.pbg{
+      color: white;
+}
+
 
 
 
@@ -77,9 +85,6 @@ body{
     
 }
 
-/* .banner-returnal h4{
-    padding-bottom: 24px;
-} */
 
 
 /* button */
@@ -253,6 +258,10 @@ APPLICATO  TUTTO IL DIV */
     margin-bottom: 48px;
 }
 
+.plus p{
+      color: black;
+}
+
 .ps-plus-img img{
     width: 72%;
 }
@@ -299,6 +308,10 @@ APPLICATO  TUTTO IL DIV */
     width: 100%;
 }
 
+.social{
+      margin-bottom: 72px;
+}
+
 /* footer */
 
 ul{
@@ -334,6 +347,9 @@ ul{
 .text-logo-sie span{
     text-decoration: underline;
 }
+
+
+
 
     /* BREAKPOINTS 
 X-Small 	None 	<576px
