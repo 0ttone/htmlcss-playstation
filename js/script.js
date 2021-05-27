@@ -1,0 +1,1 @@
+document.getElementById('myID').innerHTML = 'Check text for javascript'
